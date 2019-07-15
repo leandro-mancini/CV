@@ -10,6 +10,13 @@ Para definir melhor, sou um profissional capaz de explorar o front-end de uma ap
 :envelope:  mancinilele@gmail.com
 
 ## Experência Profissional
+* (2012 -  2016) <br>
+**Comuniclick Soluções Web** - Front-end Developer
+  * Colaborar no desenvolvimento dos projetos de Campanhas de Incentivos.
+  * Colaborar no desenvolvimento dos projetos de Hotsites Promocionais. <br>
+  **Resumo**
+  Aqui trabalhei por 4 anos e 3 meses. Trabalhei nos desenvolvimentos de campanhas de incentivos e hotsites promocionais. Foi onde conheci um pouco de NodeJS e AngularJS.
+
 * (2007 -  2012) <br>
 **Neotix Interactive Agency** - Front-end Developer
   * Ser responsável pelo desenvolvimento de banners animados com o ActionScript 2.0.
