@@ -33,6 +33,9 @@ Para definir melhor, sou um profissional capaz de explorar o front-end de uma ap
 ### Gerais
 * Lógica de Programação.
 * Clean Architecture.
+* Métodos Ágeis
+  * SCRUM
+  * Spotify Squads
 
 ### Sistemas Operacionais
 * Windows
@@ -46,6 +49,9 @@ Para definir melhor, sou um profissional capaz de explorar o front-end de uma ap
 * JSON
 * Javascript
 * PWA - Progressive Web Apps
+* TDD
+  * Teste de unidade
+  * Testes end-to-end
   
 ### Frameworks Front-end
 * JQuery
