@@ -74,8 +74,17 @@ Para definir melhor, sou um profissional capaz de explorar o front-end de uma ap
 * Robótica
 * IoT
   * Automação Residencial
+  
+## Atividades
+* Medium
+  * [Como definir uma estrutura de pastas altamente escalável para o seu projeto Angular](https://medium.com/@mancinileandro/como-definir-uma-estrutura-de-pastas-altamente-escal%C3%A1vel-para-o-seu-projeto-angular-31102e79a33f)
 
 ## Cursos Completos
 * Construindo Aplicações Web Com o Novo Angular (4, 5 e 6) (Udemy / [Certificado](https://ude.my/UC-B7JYUD08))
 * Criação de Apps Android e iOS com Flutter - Crie 16 Apps (Udemy / [Certificado](http://ude.my/UC-U3JNLYVK))
 * ESP8266 wifi wireless com Arduino – Automação Residencial (Udemy / [Certificado](http://ude.my/UC-1Z0O7UIK))
+
+## Redes Sociais
+*  [Medium](https://medium.com/@mancinileandro)
+*  [Github](https://github.com/leandro-mancini)
+*  [Linkedin](https://www.linkedin.com/in/leandro-mancini-86301b44/)
