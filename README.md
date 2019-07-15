@@ -10,17 +10,22 @@ Para definir melhor, sou um profissional capaz de explorar o front-end de uma ap
 :envelope:  mancinilele@gmail.com
 
 ## Experência Profissional
+* (2016 -  atual) <br>
+**Praxio Tecnologia** - Front-end Developer (Analista de Sistemas Sênior)
+  * Desenvolvimento de produtos seguindo altos padrões de qualidade em Angular.
+  * Abordagem TDD.
+  * Metodologias ágeis SCRUM / Spotify Squad.
+  * Responsável pela criação e geração de código, com base no Clean Architecture.
+  * Parte do projeto pioneiro de criar uma biblioteca de componentes reutilizáveis para diferentes produtos.
+  * Git flow no fluxo de trabalho colaborativo.
+
 * (2012 -  2016) <br>
 **Comuniclick Soluções Web** - Front-end Developer
   * Colaborar no desenvolvimento dos projetos de Campanhas de Incentivos.
-  * Colaborar no desenvolvimento dos projetos de Hotsites Promocionais. <br>
-  **Resumo**
-  Aqui trabalhei por 4 anos e 3 meses. Trabalhei nos desenvolvimentos de campanhas de incentivos e hotsites promocionais. Foi onde conheci um pouco de NodeJS e AngularJS.
+  * Colaborar no desenvolvimento dos projetos de Hotsites Promocionais.
 
 * (2007 -  2012) <br>
 **Neotix Interactive Agency** - Front-end Developer
   * Ser responsável pelo desenvolvimento de banners animados com o ActionScript 2.0.
   * Ser responsável pelo desenvolvimento de hotsites utilizando o flash com a linguagem ActionScript 3.0.
-  * Ser responsável pelo desenvolvimento páginas resposivas utilizando HTML, CSS e JQuery. <br>
-  **Resumo**
-  Entrei como desenvolvedor flash, trabalhando com linguagens em ActionScript 2 e 3, após 3 anos me apaixonei pelo front-end web usando o HTML, CSS, Javascript e conheci o framework JQuery onde pude trabalhar legal com minhas animações que no flash eu tinha facilidade. Trabalhei no desenvolvimento de portais para Imobiliárias e empreendimentos comerciais.
+  * Ser responsável pelo desenvolvimento páginas resposivas utilizando HTML, CSS e JQuery.
