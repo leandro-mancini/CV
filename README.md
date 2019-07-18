@@ -92,4 +92,4 @@ Para definir melhor, sou um profissional capaz de explorar o front-end de uma ap
 ## Redes Sociais
 *  [Medium](https://medium.com/@mancinileandro)
 *  [Github](https://github.com/leandro-mancini)
-*  [Linkedin](https://www.linkedin.com/in/leandro-mancini-86301b44/)
+*  [Linkedin](https://www.linkedin.com/in/leandro-mancini/)
