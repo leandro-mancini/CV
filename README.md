@@ -11,6 +11,7 @@ Para definir melhor, sou um profissional capaz de explorar o front-end de uma ap
 * (2016 -  atual) <br>
 **Praxio Tecnologia** - Front-end Developer (Analista de Sistemas Sênior)
   * Desenvolvimento de produtos seguindo altos padrões de qualidade em Angular/Flutter.
+  * Angular Arquitetura de Microserviços
   * Abordagem TDD.
   * Metodologias ágeis SCRUM / Spotify Squad.
   * Responsável pela criação e geração de código, com base no Clean Architecture.
