@@ -85,7 +85,6 @@ Para definir melhor, sou um profissional capaz de explorar o front-end de uma ap
   * [Como definir uma estrutura de pastas altamente escalável para o seu projeto Angular](https://medium.com/@mancinileandro/como-definir-uma-estrutura-de-pastas-altamente-escal%C3%A1vel-para-o-seu-projeto-angular-31102e79a33f)
 
 ## Cursos Completos
-* Construindo Aplicações Web Com o Novo Angular (4, 5 e 6) (Udemy / [Certificado](https://ude.my/UC-B7JYUD08))
 * Criação de Apps Android e iOS com Flutter - Crie 16 Apps (Udemy / [Certificado](http://ude.my/UC-U3JNLYVK))
 * ESP8266 wifi wireless com Arduino – Automação Residencial (Udemy / [Certificado](http://ude.my/UC-1Z0O7UIK))
 * Controle dispositivos remotamente com ESP8266 (Udemy / [Certificado](http://ude.my/UC-CG62XMKF))
