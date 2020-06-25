@@ -16,6 +16,7 @@ Para definir melhor, sou um profissional capaz de explorar o front-end de uma ap
   * Abordagem TDD e BDD.
   * Metodologias ágeis SCRUM / Spotify Squad.
   * Parte do projeto de criação de uma biblioteca de componentes reutilizáveis para diferentes produtos.
+  * Criação de documentações utilizando o framework Storybook
   * Git flow no fluxo de trabalho colaborativo.
 
 * (2016 -  2019) <br>
