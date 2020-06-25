@@ -12,6 +12,7 @@ Para definir melhor, sou um profissional capaz de explorar o front-end de uma ap
 **Guide Investimentos** - Front-end Developer (Analista de Sistemas Sênior)
   * Desenvolvimento de produtos seguindo altos padrões de qualidade em Angular/Flutter.
   * Angular Arquitetura de Microserviços
+  * Pioneiro de uma POC em flutter para implementações de padrões em novos projetos mobile
   * Abordagem TDD e BDD.
   * Metodologias ágeis SCRUM / Spotify Squad.
   * Parte do projeto de criação de uma biblioteca de componentes reutilizáveis para diferentes produtos.
