@@ -8,7 +8,16 @@ Para definir melhor, sou um profissional capaz de explorar o front-end de uma ap
 :envelope:  mancinilele@gmail.com
 
 ## Experência Profissional
-* (2016 -  atual) <br>
+* (2019 -  atual) <br>
+**Guide Investimentos** - Front-end Developer (Analista de Sistemas Sênior)
+  * Desenvolvimento de produtos seguindo altos padrões de qualidade em Angular/Flutter.
+  * Angular Arquitetura de Microserviços
+  * Abordagem TDD e BDD.
+  * Metodologias ágeis SCRUM / Spotify Squad.
+  * Parte do projeto de criação de uma biblioteca de componentes reutilizáveis para diferentes produtos.
+  * Git flow no fluxo de trabalho colaborativo.
+
+* (2016 -  2019) <br>
 **Praxio Tecnologia** - Front-end Developer (Analista de Sistemas Sênior)
   * Desenvolvimento de produtos seguindo altos padrões de qualidade em Angular/Flutter.
   * Angular Arquitetura de Microserviços
